@@ -33,8 +33,7 @@ about_message = """
 <b>• Name : <a href=https://t.me/Doraemon_tamil_links >DT AutoCaption</a></b>
 <b>• Developer : <a href=https://t.me/Doraemon_tamil_links >[DT UPDATES]</a></b>
 <b>• Language : Python3</b>
-<b>• Library : Pyrogram v{version}</b>
-<b>• Updates : <a href=https://t.me/Doraemon_tamil_links>Click Here</a></b>"""
+<b>• Library : Pyrogram v{version}</b>"""
 
 # Start Command Handler
 @AutoCaptionBotV1.on_message(pyrogram.filters.private & pyrogram.filters.command(["start"]))
