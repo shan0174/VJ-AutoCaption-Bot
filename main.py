@@ -12,7 +12,7 @@ api_hash = os.environ.get("api_hash", "7f8e2def57731a61f07b264e13c130a1")
 bot_token = os.environ.get("bot_token", "7627086441:AAHJvydOWzyK7mKCpHusxoofoZsqy1295Ss")
 custom_caption = os.environ.get(
     "custom_caption",
-    "`{file_name}`\n\n**By - @VDoraemon_tamil_links**"
+    "`{file_name}`\n\n**By - @Doraemon_tamil_links**"
 )
 
 # Create Bot Client
