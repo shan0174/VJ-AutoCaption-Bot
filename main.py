@@ -12,7 +12,7 @@ api_hash = os.environ.get("api_hash", "7f8e2def57731a61f07b264e13c130a1")
 bot_token = os.environ.get("bot_token", "7627086441:AAHJvydOWzyK7mKCpHusxoofoZsqy1295Ss")
 custom_caption = os.environ.get(
     "custom_caption",
-    "(@VAMS_SK) (@Dora_Toonz)\n\n`{file_name}`\n📂 Size: `{file_size}`\n\n`🎞️TATA-PLAY-DL`\n\n🎧[Hin+Tam+Tel]"
+    "(@VAMS_SK) (@Dora_Toonz)\n\n`{file_name}`\n\n📂 Size: `{file_size}`\n\n`🎞️TATA-PLAY-DL`\n\n🎧[Hin+Tam+Tel]"
 )
 
 # Create Bot Client
